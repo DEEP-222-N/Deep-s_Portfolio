@@ -2,4 +2,4 @@
 My Portfolio
 
 # Link
-https://deep-222-n.github.io/Deep-s_Portfolio/
+https://portfoliodna.netlify.app/
